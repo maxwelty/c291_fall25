@@ -1,5 +1,6 @@
 //Will you answer the phone program
 //Function main begins
+#include <studio.h>
 int main() {
 //make your variables characters and read in inputs
 	char asleep, morning, mom;
